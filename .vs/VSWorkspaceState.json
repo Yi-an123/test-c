@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\frighting",
+    "\\frighting\\frighting"
   ],
-  "SelectedNode": "\\helloworld.sln",
+  "SelectedNode": "\\frighting\\frighting\\frighting.c",
   "PreviewInSolutionExplorer": false
 }
